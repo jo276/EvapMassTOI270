@@ -1,0 +1,7 @@
+This contains the jupyter notebooks for the minimum mass calculations for TOI-270 (L231-32)  c/d based on the
+photoevaporation model. This work was performed for Van Eylen et al.:
+https://ui.adsabs.harvard.edu/abs/2021arXiv210101593V/abstract
+
+The code requires the EvapMass package from Owen & Campos Estrada 2020 (MNRAS 491 5287):
+https://github.com/jo276/EvapMass
+
